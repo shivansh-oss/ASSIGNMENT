@@ -1,9 +1,11 @@
-# Assignment – Functions and Header Files in C
+ASSIGNMENT: Functions and Header Files in C
 
-To compile and run:
----------------------------------
-gcc main.c mylib.c arraylib.c -o program
-./program
+To use this file all you need to do is:
+
+
+Compile: gcc main.c mylib.c arraylib.c -o program 
+Run: ./program
+
 
 Files included:
 1. mylib.h / mylib.c – number checking functions
@@ -11,5 +13,6 @@ Files included:
 3. main.c – menu driven main file
 4. README.txt – compilation steps
 
-Note:
-Place all files in the same folder before compiling.
+NOTE: Place all files in the same folder before compiling.
+
+CREATED BY - SHIVANSH
